@@ -1,7 +1,5 @@
 # mrubyc-esp32-threadsample
 
-====
-
 ## Requirement
 * 動作確認済みOS:Ubuntu 18.04 LTS 日本語 Remix(64bit)
 
