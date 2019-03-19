@@ -1,0 +1,3 @@
+[submodule "components/mrubyc"]
+	path = components/mrubyc
+	url = https://github.com/mrubyc/mrubyc.git
