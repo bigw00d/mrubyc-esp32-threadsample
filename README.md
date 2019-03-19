@@ -12,11 +12,6 @@
 ### サンプルソースファイルのプロジェクトを作成する
 1. このサンプルソースファイル一式をクローンする  
 　git clone --recursive https://github.com/bigw00d/mrubyc-esp32-threadsample.git  
-1. mrubycをクローンする  
-　cd mrubyc-esp32-threadsample/components  
-　git clone --recursive https://github.com/mrubyc/mrubyc.git
-1. 念のためにmrubycを動作確認済みバージョンにする(不要かもしれない)  
-　git checkout 2da0310580e673ddf03cf369da3ab21bf387400c  
 1. プロジェクトを作成する  
 　cd ../  
 　./newproject.sh thread-sample  
