@@ -1,4 +1,4 @@
-# mrblib/loops/operator.rb
+# mrblib/loops/operator1.rb
 
 printer = Printer.new
 
